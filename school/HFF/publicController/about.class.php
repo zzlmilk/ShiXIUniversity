@@ -1,5 +1,7 @@
 <?php
 
+
+//关于我们的控制器
 class aboutController extends BaseController {
 
     protected $templateFile = "index";
