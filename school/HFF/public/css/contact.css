@@ -1,0 +1,24 @@
+#contact_content{
+    background-image: url(../image/smallBackgorunp.png);
+    position: relative;
+    width: 708px;
+    height: 541px;
+    margin-left: 231px;
+    font-size: 14px;
+    color: #656565;
+}
+#contact_ul li div{
+    margin-left: 30px;
+}
+#contact_ul li {
+    margin-bottom: 50px;
+}
+.font{
+    font-weight: bold;
+    color: #373737;
+   font-family: Gautami,Sylfaen;
+    font-size: 16px;
+}
+.contact{
+    margin-top: 2px;
+}

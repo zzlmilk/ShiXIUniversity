@@ -1,0 +1,42 @@
+/* 
+    Document   : header
+    Created on : 2013-9-27, 11:40:17
+    Author     : Administrator
+    Description:
+        Purpose of the stylesheet follows.
+*/
+/*ul,li{
+    margin: 0;
+    padding: 0;
+}*/
+#headerDiv span{
+    float: left;
+/*    width: 88px;*/
+    height: 20px;
+    display: inline-block;
+    margin-left: 10px;
+    
+}
+#headerDiv span a{
+     font-family: Verdana,afribl;
+}
+#headerDiv{
+    font-size: 12px;
+/*    left: 612px;*/
+    left: 45%;
+    position: absolute;
+    top: 53px;
+    width:485px;
+    padding-left: 65px;
+  
+
+}
+#headerDiv a {text-decoration:none;}
+#headerDiv a:visited {text-decoration:none;} 
+#headerDiv a:hover {color: #00b5e2; text-decoration:underline; } 
+.white{
+    color: white;
+}
+.fontDefault{
+    color: #00b5e2;
+}

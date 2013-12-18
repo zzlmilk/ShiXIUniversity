@@ -1,0 +1,150 @@
+/* 
+    Document   : news
+    Created on : 2013-9-29, 14:37:57
+    Author     : Administrator
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
+.nleftAction{
+    border: solid 1px #ccc;
+    width: 180px;
+    height: 270px;
+    float:left;
+}
+.nrightAction{
+    background-image: url("../image/smallbackg.png");
+    height: 541px;
+    margin-left: 210px;
+    width: 708px;
+}
+.ulStyle{
+    margin-left:40px;
+}
+.liStyle{
+    height: 43px;
+    line-height: 25px;
+}
+.newsTitle{
+    color: #373737;
+    display: inline-block;
+    /*    width: 500px;*/
+    /*    float:left;*/
+    font-size:18px;
+    /*    font-weight:bold;*/
+    height: 25px;
+    text-indent:5px;
+    /*    cursor: pointer;*/
+    margin-top: -22px;
+    font-family: arial,Sylfaen;
+    *height:60px;
+    *width:500px;
+    *float:left;
+    *line-height: 105px;
+}
+.newsTitleM{
+    float: left;
+    height: 30px;
+    line-height: 36px;
+    overflow: hidden;
+    width: 540px;
+}
+.newsTitleM:hover{
+    float: left;
+    height: 30px;
+    line-height: 36px;
+    overflow: hidden;
+    width: 540px;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+
+.newsTime{
+    color: #656565;
+    float: right;
+    font-family: 'arial';
+    font-size: 13px;
+    font-weight: normal;
+    line-height: 36px;
+    text-indent: 10px;
+    width: 100px;
+    *margin-top: 15px;
+
+}
+.newsContent{
+    color: #656565;
+    font-family: 'gautami';
+    font-size: 14px;
+    text-align: justify;
+    line-height: 22px;
+    padding-left: 6px;
+    width: 630px; 
+    height: 64px;
+    overflow: hidden;
+    *margin-top: 15px;
+}
+
+.newsDetailContent{
+    color: #656565;
+    font-family: 'gautami';
+    font-size: 14px;
+    text-align: justify;
+    line-height: 22px;
+    padding-left: 6px;
+    width: 630px; 
+    overflow: hidden;
+    *margin-top: 15px;
+}
+.pageStyle2{
+    display: block;
+    float: left;
+    height: 18px;
+    line-height: 18px;
+    margin-left: 10px;
+    text-align: center;
+    width: 15px;
+    
+    font-weight: bold;
+    cursor: pointer;
+    font-size: 12px;
+}
+.pageStyle2:hover{
+/*    background: #6b6b6b;*/
+    text-decoration: underline;
+}
+
+.pageStyle1{
+
+    color: #00B5E2;
+    
+    float: left;
+    height: 18px;
+    line-height: 18px;
+    margin-left: 10px;
+    text-align: center;
+    width: 15px;
+    font-weight: bold;
+    cursor: pointer;
+    font-size: 12px;
+    display: block;
+    font-size: 12px;
+}
+
+
+
+
+
+.pageWarp{
+    height: 30px;
+    margin-left: 280px;
+    /*    margin-top: 200px;*/
+    width: 200px;
+}
+#testPage:hover{
+    text-decoration: underline;
+}

@@ -1,0 +1,1 @@
+{include file="../public/no_left.tpl"}

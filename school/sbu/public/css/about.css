@@ -1,0 +1,40 @@
+/* 
+    Document   : about
+    Created on : 2013-9-27, 14:10:160
+    Author     : Administrator
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+#aboutRight{
+    width:752px;
+    float: left;
+}
+#aboutleft{
+    width: 180px;
+    float: left;
+    height: 400px;
+    
+}
+#aboutleft a{
+    display:block;
+    width: 171px;
+    height: 33px;
+    margin-bottom: 25px;
+}
+
+.wordCEO{
+    background:url('../image/wordsOfTheCEO.png');
+}
+.wordCEOActive{
+    background:url('../image/wordsOfTheCEOActive.png');
+}
+.institute{
+    background:url('../image/institute.png');
+}
+.instituteActive{
+    background:url('../image/instituteActive.png');
+}

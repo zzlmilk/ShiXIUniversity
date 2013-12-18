@@ -1,0 +1,130 @@
+#aboutleft{
+    width: 180px;
+    float: left;
+    height: 400px;
+
+}
+#aboutleft a{
+    display:block;
+    width: 171px;
+    height: 33px;
+    margin-bottom: 25px;
+}
+.leader{
+    background:url('../image/leader.png');
+}
+.leaderActive{
+    background:url('../image/leaderActive.png');
+}
+.faculty{
+    background:url('../image/faculty.png');
+}
+.facultyActive{
+    background:url('../image/facultyActive.png');
+}
+.SM{
+    background:url('../image/SM.png');
+}
+.SMActive{
+    background:url('../image/SMHover.png');
+}
+
+.teamArea{
+    padding-left: 85px;
+
+}
+#aboutRight{
+    padding-left: 180px;
+}
+.teamIntroduce{
+    border-bottom: 1px solid #c5cec4;
+    height: 175px;
+   width: 620px;
+    margin-bottom: 26px;
+    
+}
+.clear{
+    clear: both;
+}
+.floatLeft{
+    float: left;
+}
+.teamIntroduceText{
+   width: 475px;
+   
+    margin-bottom: 15px;
+    padding-left: 10px;
+    
+}
+.teamIntroduceTextTitle{
+    color: #373737;
+    font-weight: bold;
+    margin-bottom: 10px;
+    width: 455px;
+}
+.teamIntroduceTextWords{
+    color:#585858;
+    font-family:Gautami ,Sylfaen;
+    word-break:break-all;
+    width: 440px;
+    line-height: 20px;
+}
+.teamIntroduceTextLink{
+    text-align: right;
+    margin-top: 14px;
+    width: 480px;
+}
+.teamIntroduceTextLinkFount{
+    color:#00b5e2;
+}
+.teamIntroduceTextLink a{
+    
+    padding:2px;
+}
+
+.teamIntroduceTextLink a:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.pageStyle2{
+    display: block;
+    float: left;
+    height: 18px;
+    line-height: 18px;
+    margin-left: 10px;
+    text-align: center;
+    width: 15px;
+    
+    font-weight: bold;
+    cursor: pointer;
+    font-size: 12px;
+}
+.pageStyle2:hover{
+    background: #F0F0F0;
+}
+
+.pageStyle1{
+
+    color: #00B5E2;
+    
+    float: left;
+    height: 18px;
+    line-height: 18px;
+    margin-left: 10px;
+    text-align: center;
+    width: 15px;
+    font-weight: bold;
+    cursor: pointer;
+    font-size: 12px;
+    display: block;
+    font-size: 12px;
+}
+
+
+
+
+.teamIntroduceTextTitle a:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
